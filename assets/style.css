@@ -102,13 +102,19 @@ h2 {
 
 #motto {
   font-size: 50%;
-  
 }
 
-#welcome {
+#who-are-we {
   margin: 20px 0;
   text-align: center;
   font-size: 280%;
+}
+
+#about {
+  margin: 50px;
+  text-align: center;
+  font-size: 150%;
+  letter-spacing: 2px;
 }
 
 
