@@ -174,3 +174,13 @@ ul .sm {
   width: 100%;
 }
 
+@media screen and (max-width: 1393px){
+  #ethos{
+      width: 65%;
+      height: 1200px;
+      margin: 0 auto;
+  }
+  
+  
+
+}
