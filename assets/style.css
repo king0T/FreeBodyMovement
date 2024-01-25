@@ -9,6 +9,7 @@
 body {
   font-family: Asap;
   color: black;
+  background-color: azure;
 }
 
 h2 {
@@ -135,3 +136,25 @@ h2 {
   text-align: center;
   margin: 4px;
 }
+
+footer {
+  height: 50px;
+}
+
+.socials{
+  text-align: center;
+}
+
+.socials li {
+  display: inline;
+}
+
+ul .sm {
+  font-size: 150%;
+  margin: 2%;
+  padding: 5%;
+  color: black;
+  
+}
+
+
