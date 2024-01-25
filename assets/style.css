@@ -184,9 +184,14 @@ ul .sm {
 
   #cover-text{
     left:0px;
-    transform: scale(75%);
+    transform: scale(75%);  
 }
-
+  #offerings div {
+    width: 100%;
+    clear: both;
+    height: 150%;
+    padding: 0;
+  }
 
 }
 
@@ -210,5 +215,6 @@ ul .sm {
     width:90%;
     height: 1200px;
     margin: 0 auto;
+    
 }
 }
