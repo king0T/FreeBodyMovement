@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Asap|Oswald');
+  @import url('https://fonts.googleapis.com/css2?family=Asap|Oswald');
 
 * {
   margin:0;
@@ -8,14 +8,14 @@
 
 body {
   font-family: Asap;
-  color: #777777;
+  color: black;
 }
 
 h2 {
   font-family: Oswald;
   text-transform: uppercase;
   letter-spacing: 4px;
-  color: #555555;
+  color: black;
 }
 
 #logo {
@@ -75,6 +75,34 @@ h2 {
   to {
     transform: scale(1.1);
   }
+}
+
+#cover-text {
+  font-size: 280%;
+  font-family: Oswald;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  
+  
+  width: 850px;
+  height: 100px;
+  
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  background-color: rgb(255, 255, 255, 50%);
+
+  bottom: 50px;
+  right: 500px;
+
+  position: absolute;
+}
+
+#motto {
+  font-size: 50%;
+  
 }
 
 #welcome {
