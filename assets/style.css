@@ -19,6 +19,7 @@ h2 {
   color: black;
 }
 
+/*Logo & Menu*/
 #logo {
   float:left;
   font-size: 280%;
@@ -54,6 +55,7 @@ h2 {
   border-bottom: 1px solid #777777;
 }
 
+/*Hero section */
 #hero-image {
   height: 600px;
   width: 100%;
@@ -70,6 +72,7 @@ h2 {
   position: relative;
 }
 
+/*Animation */
 @keyframes hero-zoom {
   from {
     transform: scale(1);
@@ -79,6 +82,7 @@ h2 {
   }
 }
 
+/*Cover text section */
 #cover-text {
   font-size: 280%;
   font-family: Oswald;
@@ -106,6 +110,7 @@ h2 {
   font-size: 50%;
 }
 
+/*Who are we section */
 #who-are-we {
   margin: 20px 0;
   text-align: center;
@@ -125,7 +130,7 @@ h2 {
   letter-spacing: 2px;
 }
 
-
+/*Offerings section */
 #offerings {
   background-image: url(https://images.unsplash.com/photo-1514994444123-10094655bdb5?q=80&w=2651&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-size: cover;
@@ -144,11 +149,13 @@ h2 {
   margin: 4px;
 }
 
+/*Footer section */
 footer {
   height: 50px;
+  text-align: center;
 }
 
-.socials{
+.socials {
   text-align: center;
 }
 
@@ -164,6 +171,7 @@ ul .sm {
   
 }
 
+
 #pics {
   clear:both;
   line-height: 0;
@@ -174,7 +182,13 @@ ul .sm {
 #pics img {
   width: 100%;
 }
+/*Form section */
+.form {
+  clear: both;
+  text-align: center;
+}
 
+/*Viewport changes */
 @media screen and (max-width: 1396px){
   #ethos{
       width: 75%;
@@ -218,3 +232,4 @@ ul .sm {
     
 }
 }
+
