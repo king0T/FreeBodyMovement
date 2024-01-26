@@ -254,3 +254,15 @@ ul .sm {
   padding: 0;
 }
 
+#pics {
+  column-count: 3;
+}
+}
+
+/*Gallery responsive design*/
+@media screen and (max-width: 800px){
+    #pics {
+      column-count: 2;
+    }
+}
+
