@@ -161,13 +161,14 @@ footer {
 
 .socials {
   text-align: center;
+  
 }
 
 .socials li {
   display: inline;
 }
 
-.sm i {
+.socials li a i {
   font-size: 150%;
   margin: 2%;
   padding: 5%;
