@@ -112,7 +112,7 @@ h2 {
 }
 
 /*Who are we section */
-#who-are-we {
+.who-are-we {
   margin: 20px 0;
   text-align: center;
   font-size: 280%;
@@ -125,7 +125,7 @@ h2 {
 }
 
 
-#about {
+.about {
   margin: 150px;
   text-align: center;
   font-size: 150%;
