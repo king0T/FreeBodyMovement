@@ -165,12 +165,14 @@ footer {
 
 .socials li {
   display: inline;
+}
+
+.sm i {
   font-size: 150%;
   margin: 2%;
   padding: 5%;
   color: black;
 }
-
 
 
 #pics {
